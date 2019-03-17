@@ -1,4 +1,7 @@
 # CS224n: Natural Language Processing with Deep Learning 
+
+<img src="https://github.com/ankit-ai/cs224n-natural-language-processing-winter2019/blob/master/cs224n.png">
+
 ### Stanford / Winter 2019
 
 -----------
